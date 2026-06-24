@@ -1,0 +1,5 @@
+{"alias": "empty", "modifier": "No specific modifiers. An ordinary request."}
+{"alias": "poor_internet_connection", "modifier": "The user has an unstable internet connection, messages may arrive out of order, and they are frustrated because screens or uploads keep failing."}
+{"alias": "anxious_security_fear", "modifier": "The user is very anxious because they think their money or personal data may be at risk, and they repeatedly asks for reassurance."}
+{"alias": "confused_by_app_updates", "modifier": "The user is confused because the app interface has changed or looks different from the instructions they found, so they cannot locate the right feature."}
+{"alias": "angry_after_waiting", "modifier": "The user has already waited a long time for help and writes in an angry, impatient tone, demanding a clear resolution immediately."}
